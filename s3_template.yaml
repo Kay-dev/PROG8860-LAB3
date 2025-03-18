@@ -3,4 +3,4 @@ Resources:
     Type: 'AWS::S3::Bucket'
     DeletionPolicy: Retain
     Properties:
-      BucketName: LAB3-8960392-BUCKET
+      BucketName: lab3-8960392-bucket
