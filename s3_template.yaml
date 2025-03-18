@@ -1,6 +1,6 @@
 Resources:
   S3Bucket:
     Type: 'AWS::S3::Bucket'
-    DeletionPolicy: DESTROY
+    DeletionPolicy: Retain
     Properties:
       BucketName: LAB3-8960392-BUCKET
